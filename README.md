@@ -82,6 +82,8 @@ Before starting, make sure you have the following:
 
 ## Wiring Diagram
 
+<img width="807" height="631" alt="image" src="https://github.com/user-attachments/assets/b7a78e83-0e99-49b1-9e4b-2d3dc31fba8f" />
+
 
 The above diagram represents the full circuit used in the system, including the sensor, relay, LCD, and keypad interfaces with the ATmega32.
 
